@@ -1,0 +1,83 @@
+,#Datasets,#sum_counts_chick1,#sum_count_chick2
+0,Bacteroides fragilis,1914737.0,121839.0
+1,Bacteroides thetaiotaomicron,314848.0,
+2,Fusobacterium mortiferum,2437366.0,505125.0
+3,Fusobacterium ulcerans,1743746.0,
+4,Fusobacterium varium,10458290.0,
+5,Fusobacterium sp. HMSC073F01,568245.0,
+6,Aquincola tertiaricarbonis,293069.0,310784.0
+7,Tepidicella xavieri,197557.0,
+8,Campylobacter coli,165055.0,43588.0
+9,Escherichia coli,3641933.0,208289.0
+10,Salmonella enterica,149880.0,
+11,Proteus mirabilis,273832.0,
+12,Pseudogracilibacillus auburnensis,872793.0,47383.0
+13,Enterococcus avium,2241906.0,
+14,Enterococcus casseliflavus,882596.0,
+15,Enterococcus cecorum,5056210.0,4412127.0
+16,Enterococcus faecalis,6839153.0,58860.0
+17,Enterococcus faecium,1041309.0,450192.0
+18,Enterococcus gallinarum,10934723.0,222971.0
+19,Enterococcus hirae,452245.0,161363.0
+20,Enterococcus saccharolyticus,283563.0,
+21,Enterococcus sp. HSIEG1,697748.0,
+22,Lactobacillus agilis,727582.0,102772.0
+23,Lactobacillus amylovorus,476955.0,123483.0
+24,Lactobacillus aviarius,1013914.0,340721.0
+25,Lactobacillus crispatus,231412.0,276267.0
+26,Lactobacillus delbrueckii,242734.0,38539.0
+27,Lactobacillus gigeriorum,1729870.0,
+28,Lactobacillus ingluviei,601041.0,
+29,Lactobacillus johnsonii,342670.0,35050.0
+30,Lactobacillus kitasatonis,1213713.0,271099.0
+31,Lactobacillus saerimneri,317632.0,
+32,Lactobacillus salivarius,1106687.0,215128.0
+33,[Clostridium] spiroforme,184464.0,325924.0
+34,Faecalicoccus pleomorphus,280670.0,64513.0
+35,Veillonella magna,195247.0,
+36,uncultured bacterium,,50266.0
+37,Bacteroides plebeius,,40731.0
+38,uncultured Bacteroides sp.,,36017.0
+39,Sediminibacterium goheungense,,69552.0
+40,Arcicella aurantiaca,,34550.0
+41,Cloacibacterium normanense,,91122.0
+42,Bacteroidetes bacterium,,47350.0
+43,Asticcacaulis excentricus,,57361.0
+44,Caulobacter vibrioides,,47314.0
+45,Cupriavidus pauculus,,34737.0
+46,Aquabacterium olei,,70457.0
+47,Curvibacter sp. PAE-UM,,37425.0
+48,Kinneretia asaccharophila,,39780.0
+49,Burkholderiales bacterium,,67586.0
+50,Helicobacter pullorum,,272866.0
+51,Bdellovibrio sp. 28-41-41,,54116.0
+52,Bifidobacterium pseudolongum,,47094.0
+53,Lawsonella clevelandensis,,133521.0
+54,Cutibacterium acnes,,214258.0
+55,Thermus scotoductus,,95432.0
+56,Bacillus marisflavi,,35960.0
+57,Enterococcus columbae,,42094.0
+58,Clostridium cadaveris,,78783.0
+59,Clostridium cuniculi,,35581.0
+60,Clostridium nigeriense,,57767.0
+61,Clostridium paraputrificum,,65945.0
+62,Clostridium perfringens,,2663485.0
+63,Clostridium sp. CL-6,,56663.0
+64,Clostridiaceae bacterium,,55688.0
+65,Clostridiaceae bacterium 14S0207,,134918.0
+66,[Eubacterium] brachy,,46211.0
+67,Merdimonas faecis,,188556.0
+68,Niameybacter massiliensis,,511318.0
+69,Tyzzerella sp. An114,,48360.0
+70,Clostridioides difficile,,1078860.0
+71,Paraclostridium bifermentans,,39370.0
+72,Romboutsia timonensis,,46875.0
+73,Terrisporobacter glycolicus,,228688.0
+74,Terrisporobacter othiniensis,,175630.0
+75,Peptostreptococcaceae bacterium,,339262.0
+76,Pseudoflavonifractor sp. An85,,40100.0
+77,Faecalitalea cylindroides,,89555.0
+78,Massilimicrobiota timonensis,,34221.0
+79,Traorella massiliensis,,49402.0
+80,Phascolarctobacterium sp. CAG:266,,59639.0
+81,Megamonas rupellensis,,39882.0
