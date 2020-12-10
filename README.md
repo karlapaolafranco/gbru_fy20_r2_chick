@@ -1,9 +1,9 @@
 # gbru_fy20_r2_chick
 
 
-#This data is from chick1 and chick2 DNA sequencing.
+#This data is from chick1 and chick2 DNA sequencing.(chick1.comparison.megan and chick2.comparison.megan)
 
-#the csv file named: Chick1_Chick2_Sumcounts_taxa.csv, has the raw data that I copied and pasted to merge using pandas dataframe. The output of merging resulted in chick1&chick2_merged.csv
+#the csv file named: Chick1_Chick2_Sumcounts_taxa.csv, has the raw data that I copied and pasted to merge using pandas dataframe. The output of merging resulted in chick1&chick2_merged.csv. From here I created the file Fifth_Attempt.csv which was used to generate stripplot
 
 #there are two python notebooks. (1) Was used to apply multiplicative replacement and centered-log ratio. (2) was used to generate dot plot
 
